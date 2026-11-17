@@ -1,0 +1,62 @@
+[
+    {
+        "nombre": "GigabitEthernet0/0",
+        "tipo": "iana-if-type:ethernetCsmacd",
+        "habilitada": true,
+        "direccion_ip": "10.10.20.66"
+    },
+    {
+        "nombre": "GigabitEthernet1/0/1",
+        "tipo": "iana-if-type:ethernetCsmacd",
+        "habilitada": true,
+        "direccion_ip": "10.10.10.1"
+    },
+    {
+        "nombre": "GigabitEthernet1/0/2",
+        "tipo": "iana-if-type:ethernetCsmacd",
+        "habilitada": true,
+        "direccion_ip": "10.10.60.10"
+    },
+    {
+        "nombre": "Loopback10",
+        "tipo": "iana-if-type:softwareLoopback",
+        "habilitada": true,
+        "direccion_ip": "192.168.1.1"
+    },
+    {
+        "nombre": "Loopback99",
+        "tipo": "iana-if-type:softwareLoopback",
+        "habilitada": true,
+        "direccion_ip": "192.168.2.1"
+    },
+    {
+        "nombre": "Loopback100",
+        "tipo": "iana-if-type:softwareLoopback",
+        "habilitada": true,
+        "direccion_ip": "10.100.100.1"
+    },
+    {
+        "nombre": "Loopback141",
+        "tipo": "iana-if-type:softwareLoopback",
+        "habilitada": true,
+        "direccion_ip": "192.0.2.141"
+    },
+    {
+        "nombre": "Loopback998",
+        "tipo": "iana-if-type:softwareLoopback",
+        "habilitada": true,
+        "direccion_ip": "223.255.255.98"
+    },
+    {
+        "nombre": "Loopback999",
+        "tipo": "iana-if-type:softwareLoopback",
+        "habilitada": true,
+        "direccion_ip": "223.255.255.99"
+    },
+    {
+        "nombre": "Vlan550",
+        "tipo": "iana-if-type:l3ipvlan",
+        "habilitada": true,
+        "direccion_ip": "10.100.20.1"
+    }
+]

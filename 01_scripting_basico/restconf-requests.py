@@ -11,7 +11,7 @@ headers = {
     "Accept": "application/yang-data+json",
     "Content-Type": "application/yang-data+json"
 }
-auth = HTTPBasicAuth("admin", "C1scoPassword12345!")
+auth = HTTPBasicAuth("rmacias", "To7%tE3jsMA*kd9d")
 
 try:
     # 2. Petición GET HTTP
